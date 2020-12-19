@@ -1,6 +1,7 @@
 import React from 'react'
 import Chat from './Component/Chat'
 import Sidebar from './Component/Sidebar'
+import './App.css'
 
 export default function App() {
   return (
